@@ -56,8 +56,8 @@ So I hope this has helped some of you understand what we mean by running a scrip
 Also keep in mind that there are plenty of other ways of storing scripts in memory (one being using C#), but these are (arguably) the easiest.
 
 ### And now, resources!
-
-https://securingtomorrow.mcafee.com/business/fileless-malware-execution-with-powershell-is-easier-than-you-may-realize/
-https://github.com/PowerShellMafia/PowerSploit/tree/master/CodeExecution
-https://clymb3r.wordpress.com/
-https://www.defcon.org/images/defcon-21/dc-21-presentations/Bialek/DEFCON-21-Bialek-PowerPwning-Post-Exploiting-by-Overpowering-Powershell.pdf 
+- [Main Resource](https://securingtomorrow.mcafee.com/business/fileless-malware-execution-with-powershell-is-easier-	than-you-may-realize/)
+- [Code Execution](https://github.com/PowerShellMafia/PowerSploit/tree/master/CodeExecution)
+	- By [PowerShellMafia](https://github.com/PowerShellMafia)
+- [Clymber](https://clymb3r.wordpress.com/)
+- [Defcon 21](https://www.defcon.org/images/defcon-21/dc-21-presentations/Bialek/DEFCON-21-Bialek-PowerPwning-Post-Exploiting-by-Overpowering-Powershell.pdf)
