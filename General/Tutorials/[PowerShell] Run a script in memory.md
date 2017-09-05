@@ -10,7 +10,7 @@ So I've seen lots of PowerShell-based scripts (for the Ducky and BB especially),
 
 So, without further ado, let's get started!
 
-#### First, let's consider; what does loading a script into memory mean?
+### First, let's consider; what does loading a script into memory mean?
 Well, we all know how variables and functions work, right?
 '''sh
 var1 = "hello there!"
@@ -32,7 +32,7 @@ hello world!
 '''
 So we've just executed a function that was first placed in memory, but SOURCED from the script (text file) itself. We can do the same with scripts. We can load a script into a variable, allowing us to call it from memory.
 
-#### Okay, that's great, but how do I load a *script* into a variable - and how am I supposed to run it?
+### Okay, that's great, but how do I load a *script* into a variable - and how am I supposed to run it?
 
 First off, we have to remember to store the script outside of the machine we're running the script on. THEN we need to use an amazing PowerShell module called 'Invoke-Expression', which allows us to execute strings. You can see where this is going, right?
 
@@ -55,7 +55,7 @@ So I hope this has helped some of you understand what we mean by running a scrip
 
 Also keep in mind that there are plenty of other ways of storing scripts in memory (one being using C#), but these are (arguably) the easiest.
 
-#### And now, resources!
+### And now, resources!
 
 https://securingtomorrow.mcafee.com/business/fileless-malware-execution-with-powershell-is-easier-than-you-may-realize/
 https://github.com/PowerShellMafia/PowerSploit/tree/master/CodeExecution
