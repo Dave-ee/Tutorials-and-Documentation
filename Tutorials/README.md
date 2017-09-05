@@ -5,4 +5,4 @@
   - Tutorials for general tips and tricks!
 
 - Bash Bunny
-  - Tutorials and scripts for the Bash Bunny!
+  - Tutorials for Bash Bunny payloads!
