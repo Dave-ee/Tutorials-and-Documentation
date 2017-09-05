@@ -1,5 +1,5 @@
 # External Links
-#### PowerShell
+
 --------
 General
 - [Awesome Penetration Testing](https://github.com/enaqx/awesome-pentest)
