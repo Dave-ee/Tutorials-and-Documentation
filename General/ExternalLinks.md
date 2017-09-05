@@ -9,7 +9,7 @@ PowerShell
 - [Nishang](https://github.com/samratashok/nishang)
   - Nikhil Mittal's (A.K.A [SamratAshok](https://github.com/samratashok)) PowerShell resources for penetration testing
 - [PowerSploit](https://github.com/PowerShellMafia/PowerSploit)
-  - PowerShellMafia's Post-Exploitation Framework
+  - [PowerShellMafia's](https://github.com/PowerShellMafia) Post-Exploitation Framework
 --------
 Raspberry Pi Projects
 ###### Forum discussion on RPi Projects can be found [here](https://forums.hak5.org/topic/39850-pi-projects/?tab=comments#comment-284886).
