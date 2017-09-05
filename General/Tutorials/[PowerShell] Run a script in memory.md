@@ -1,7 +1,7 @@
 ## PowerShell Tutorial
 ###### Author: Dave-ee Jones
 ###### Subject: Running PowerShell scripts in memory
-###### [Original post](https://forums.hak5.org/topic/41729-running-powershell-in-memory/)
+###### Original post: [Link](https://forums.hak5.org/topic/41729-running-powershell-in-memory/)
 
 ### DISCLAIMER:
 I don't claim to know everything in this area, I am just giving you a general idea and some resources.
