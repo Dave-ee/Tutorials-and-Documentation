@@ -7,5 +7,5 @@
 - [Nishang](https://github.com/samratashok/nishang)
   - Nikhil Mittal's (A.K.A [SamratAshok](https://github.com/samratashok)) PowerShell resources for penetration testing
   
-- [PowerSploit](https://github.com/PowerShellMafia/PowerSploit)
+- [PowerShell] [PowerSploit](https://github.com/PowerShellMafia/PowerSploit)
   - PowerShellMafia's Post-Exploitation Framework
