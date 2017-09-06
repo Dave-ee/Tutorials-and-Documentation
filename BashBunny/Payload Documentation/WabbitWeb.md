@@ -5,7 +5,7 @@
 
 **Category:** Tool/General
 **Target:** Windows 7+
-**Attackmodes:** ETHERNET (default: RNDIS), HID**
+**Attackmodes:** ETHERNET (default: RNDIS), HID
 
 ### LED Configuration
 | STATE  | COLOUR      | ACTION                                  |
