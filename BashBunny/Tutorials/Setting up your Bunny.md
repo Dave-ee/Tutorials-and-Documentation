@@ -28,7 +28,7 @@ Head over to the Bash Bunny Wiki's 'Downloads' section (found [here](https://wik
 
 You can verify that the firmware upgrade was successful by checking the 'version.txt' file on the USB storage partition.
 
-> **NOTE:** If either of these methods didn't work for you then please say so in the 'Issues' section or on the [forum post](https://forums.hak5.org/topic/41853-tutorials-and-documentation/)!
+> **NOTE:** If either of these methods didn't work for you then please say so in the '[Issues](https://github.com/Dave-ee/Tutorials-and-Documentation/issues)' section or on the [forum post](https://forums.hak5.org/topic/41853-tutorials-and-documentation/)!
 
 ### Next thing's next. Grab the newest version of the Payloads library!
 
