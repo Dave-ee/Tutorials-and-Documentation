@@ -27,7 +27,7 @@ This method is similar to method 1, in terms of downloading a file, dragging and
 Head over to the Bash Bunny Wiki's 'Downloads' section (found [here](https://wiki.bashbunny.com/#!downloads.md)), and download the latest firmware version (currently it is 1.3). Once you've downloaded the file, **make sure you compare the SHA256 checksums**. There have been multiple instances of broken Bunnies because of people trying to upgrade a broken firmware file. Once you've verified the file, drop it in your Bunny's USB storage partition while it's in arming mode. Once it has finished copying, **eject** the Bunny and unplug it. Plug it back in and then the Bunny should boot and start upgrading the firmware (red flashing). It should automatically reboot, so don't do anything with it **INCLUDING UNPLUGGING IT** until it has booted into arming mode and USB storage has popped up.
 
 You can verify that the firmware upgrade was successful by checking the 'version.txt' file on the USB storage partition.
-###### If either of these methods didn't work for you then please say so in the 'Issues' section or on the [forum post](https://forums.hak5.org/topic/41853-tutorials-and-documentation/)!
+###### >If either of these methods didn't work for you then please say so in the 'Issues' section or on the [forum post](https://forums.hak5.org/topic/41853-tutorials-and-documentation/)!
 
 ### Next thing's next. Grab the newest version of the Payloads library!
 
