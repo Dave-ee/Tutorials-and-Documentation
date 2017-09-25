@@ -1,4 +1,4 @@
-#install latest metasploit rbenv
+#install latest ruby - metasploit rbenv
 
 cd ~
 apt-get install -y libssl-dev libreadline-dev zlib1g-dev bzip2 build-essential
