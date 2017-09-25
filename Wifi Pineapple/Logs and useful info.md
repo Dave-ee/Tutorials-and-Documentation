@@ -9,7 +9,9 @@ logread
 #Examples -
 
 #Find pineapple type
+
 dmesg | grep machine
 
 #See all ssh logins
+
 logread | grep "auth.info ssh"
