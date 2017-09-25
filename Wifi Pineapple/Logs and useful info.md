@@ -1,5 +1,4 @@
-#log locations on the pineapples are a little spread out so these terminal commands can be 
-#useful to find information and issues and give clues to solving them.
+#these terminal tools can be useful to find information about issues and give clues to solving them.
 
 dmesg
 #Used to find kernel & hardware information for the system.
