@@ -1,4 +1,4 @@
-#these terminal tools can be useful to find information about issues and give clues to solving them.
+##these terminal tools can be useful to find information about issues and give clues to solving them.
 
 dmesg
 
