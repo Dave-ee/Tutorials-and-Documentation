@@ -1,4 +1,4 @@
-#install latest ruby - metasploit rbenv
+# Install latest ruby - metasploit rbenv
 
 cd ~
 
@@ -29,4 +29,3 @@ rbenv install $RUBYVERSION
 rbenv global $RUBYVERSION
 
 ruby -v
-
