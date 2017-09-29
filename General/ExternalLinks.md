@@ -3,7 +3,9 @@
 --------
 General
 - [Awesome Penetration Testing](https://github.com/enaqx/awesome-pentest)
-  - Nick Raienko's (A.K.A. [enaqx](https://github.com/enaqx)) list of PowerShell resources for penetration testing
+  - Nick Raienko's (A.K.A. [enaqx](https://github.com/enaqx)) list of resources for penetration testing
+- [Awesome Hacking](https://github.com/hanshaze/Awesome-Hacking)
+  - Hans Haze's (A.K.A. [hanshaze](https://github.com/hanshaze)) list of resources for penetrating testing
 --------
 PowerShell
 - [Nishang](https://github.com/samratashok/nishang)
