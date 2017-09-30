@@ -14,6 +14,10 @@ Tutorials and Documentation for projects and scripts on the Hak5 Forums.
   - [Tutorials](https://github.com/Dave-ee/Tutorials-and-Documentation/blob/master/BashBunny/Tutorials/)
   - [Payload Documentation](https://github.com/Dave-ee/Tutorials-and-Documentation/blob/master/BashBunny/Payload-Documentation/)
   - [External Links](https://github.com/Dave-ee/Tutorials-and-Documentation/blob/master/BashBunny/ExternalLinks.md)
+  
+- [LAN Turtle](https://github.com/Dave-ee/Tutorials-and-Documentation/tree/master/LANTurtle)
+  - [Tutorials](https://github.com/Dave-ee/Tutorials-and-Documentation/tree/master/LANTurtle/Tutorials)
+  - [External Links](https://github.com/Dave-ee/Tutorials-and-Documentation/blob/master/LANTurtle/ExternalLinks.md)
 
 - [Packet Squirrel](https://github.com/Dave-ee/Tutorials-and-Documentation/tree/master/PacketSquirrel)
   - [What we know](https://github.com/Dave-ee/Tutorials-and-Documentation/blob/master/PacketSquirrel/What%20we%20know.md)
