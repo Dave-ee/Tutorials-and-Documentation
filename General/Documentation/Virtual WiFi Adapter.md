@@ -21,7 +21,9 @@ Now the SSID is 'Hotspot Test' (keep in mind the quotation marks will not show i
 netsh wlan set key="pa55w0rd" keyUsage=persistent
 ```
 Notice the 'keyUsage' paramter. This means that whenever you start the hotspot in future the password will carry over each time. If you don't set this the password will reset when the hotspot stops.
+
 > **Note:** You can setup all parameters at once: `netsh wlan set hostednetwork mode=allow ssid="Hotspot Test" key="pa55w0rd"`
+
 Now that we've setup the hotspot, let's enable it and start it.
 ```powershell
 netsh wlan set hostednetwork mode=allow
