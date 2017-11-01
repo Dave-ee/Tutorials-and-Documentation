@@ -1,2 +1,0 @@
-That it's available!
---------------------
