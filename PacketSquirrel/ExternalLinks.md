@@ -3,8 +3,8 @@
 
 --------
 Hak5's Packet Squirrel
-- Website (non-existent)
+- [Website](http://www.packetsquirrel.com/)
 - [Forum](https://forums.hak5.org/forum/94-packet-squirrel/)
-- Payloads (non-existent)
-- Wiki (non-existent)
+- [Payloads](https://github.com/hak5/packetsquirrel-payloads)
+- [Wiki](https://www.hak5.org/gear/packet-squirrel/docs)
 --------
