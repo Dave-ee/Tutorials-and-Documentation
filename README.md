@@ -20,7 +20,6 @@ Tutorials and Documentation for projects and scripts on the Hak5 Forums.
   - [External Links](https://github.com/Dave-ee/Tutorials-and-Documentation/blob/master/LANTurtle/ExternalLinks.md)
 
 - [Packet Squirrel](https://github.com/Dave-ee/Tutorials-and-Documentation/tree/master/PacketSquirrel)
-  - [What we know](https://github.com/Dave-ee/Tutorials-and-Documentation/blob/master/PacketSquirrel/What%20we%20know.md)
   - [External Links](https://github.com/Dave-ee/Tutorials-and-Documentation/blob/master/PacketSquirrel/ExternalLinks.md)
 
 - [WiFi Pineapple](https://github.com/Dave-ee/Tutorials-and-Documentation/tree/master/WiFiPineapple)
